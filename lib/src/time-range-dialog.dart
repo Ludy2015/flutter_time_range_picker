@@ -32,10 +32,10 @@ showTimeRangePicker({
   Duration interval = const Duration(minutes: 5),
 
   /// label for start time
-  String fromText = "From",
+  String fromText = "开始",
 
   /// label for end time
-  String toText = "To",
+  String toText = "结束",
 
   /// use 24 hours or am / pm
   bool use24HourFormat = true,
